@@ -1,4 +1,4 @@
-# My Simple Cam (My Simple Tutorial Creator widget)
+#  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Cam (My Simple Tutorial Creator widget)
 
 ### ***:heavy_exclamation_mark: For the moment, the widget is only available for Linux.***
 

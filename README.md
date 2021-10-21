@@ -29,7 +29,7 @@
 
 ## :heavy_exclamation_mark:  How to uninstall the widget?
 
-> ou can uninstall the app with:
+> You can uninstall the app with:
 
 ```
 sudo apt-get remove my-simple-cam

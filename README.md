@@ -1,3 +1,18 @@
+ <img  style =" margin-top: -12px; margin-right: 22px " src="demo/electronjs.svg" alt="drawing" height="60" width="150"/>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-cam/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-cam/graphs/commit-activity)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-cam/)](https://github.com/rodolphe37/my-simple-cam/issues)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-cam)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+<img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
+---
+
+## App Created with Electron.js & React.js
+
+
 #  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Cam (My Simple Tutorial Creator widget)
 
 ### ***:heavy_exclamation_mark: For the moment, the widget is only available for Linux.***

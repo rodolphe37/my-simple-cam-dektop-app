@@ -1,10 +1,10 @@
  <img  style =" margin-top: -12px; margin-right: 22px " src="demo/electronjs.svg" alt="drawing" height="60" width="150"/>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-cam/blob/main/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-cam/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-cam-dektop-app/graphs/commit-activity)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-cam/)](https://github.com/rodolphe37/my-simple-cam/issues)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-cam)
+[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-cam-dektop-app/)](https://github.com/rodolphe37/my-simple-cam-dektop-app/issues)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-cam-dektop-app)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
@@ -19,7 +19,7 @@
 
 ---
 
-***Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/widget-versions/linux/my-simple-cam_0.1.0_amd64.deb?raw=true)***
+***Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
 
 ---
 >**This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.**
@@ -47,7 +47,7 @@
 > You can uninstall the app with:
 
 ```
-sudo apt-get remove my-simple-cam
+sudo apt-get remove my-simple-cam-dektop-app
 
 ```
 

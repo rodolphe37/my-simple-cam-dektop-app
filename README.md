@@ -48,7 +48,7 @@
 > You can uninstall the app with:
 
 ```
-sudo apt-get remove my-simple-cam-dektop-app
+sudo apt-get remove my-simple-cam
 
 ```
 

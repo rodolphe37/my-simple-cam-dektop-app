@@ -49,10 +49,6 @@ sudo apt-get remove my-simple-cam
 
 Enjoy the World :smirk:
 
-**:memo: To Do for the next version:**
-
->:bar_chart: Add csv export.
-
 ---
 
 ## :sparkling_heart: Support the project

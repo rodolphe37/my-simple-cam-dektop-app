@@ -7,7 +7,7 @@
 ***Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/widget-versions/linux/my-simple-cam_0.1.0_amd64.deb?raw=true)***
 
 ---
->This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.
+>**This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.**
 >
 >I designed it as an widget for the "My Simple Tutorial Creator" application but, you can use only this widget and record video with others solution.
 

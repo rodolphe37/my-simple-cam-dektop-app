@@ -6,7 +6,7 @@
 ---
 >This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.
 >
->I designed it as an add-on to the My Simple Tutoria Creator application.
+>I designed it as an widget for the "My Simple Tutorial Creator" application but, you can use only this widget and record video with others solution.
 
 ![alt text](demo/demo.gif "My Simple Cam")
 

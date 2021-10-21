@@ -8,7 +8,7 @@
 >
 >I designed it as an add-on to the My Simple Tutoria Creator application.
 
-![alt text](demo/png/demo.gif "My Simple Cam")
+![alt text](demo/demo.gif "My Simple Cam")
 
 ---
 
@@ -16,11 +16,11 @@
 
 ### Installation:
 
-![alt text](demo/png/install.gif "My Simple Cam")
+![alt text](demo/install.gif "My Simple Cam")
 
 ### Start the widget:
 
-![alt text](demo/png/start.gif "My Simple Cam")
+![alt text](demo/start.gif "My Simple Cam")
 
 
 

@@ -30,7 +30,7 @@
 
 >## **:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.**
 >
->For Windows the file is compressed in .zip format
+>***For Windows the file is compressed in .zip format***
 >---
 >>***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/widget-versions/linux/my-simple-cam_0.1.0_amd64.deb?raw=true)***
 >>

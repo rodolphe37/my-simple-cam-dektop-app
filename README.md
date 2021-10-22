@@ -43,13 +43,13 @@
 >>
 >>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1CDDp9XvXQJhv9pWaWbvah1wtjbHFk0Tv/view?usp=sharing)***
 >>
->>> Classic installation like other app for Mac.
+>>> Classical installation, like other app for Mac.
 >>
 >>***Mac - Donwload the.app file (portable version) [Here](https://drive.google.com/drive/folders/1A9OWVT7j7kC7vkhkyqUNcS0P2eeJqD19?usp=sharing)***
 >>
 >>>For this version, you do not have to install anything.
 >>>
->>>Just unzip the file and copy the icon to your application folder.
+>>>Just download "My Simple Cam.app" and copy to your application folder.
 >>
 >>---
 >>

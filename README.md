@@ -15,7 +15,7 @@
 
 
 #  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Cam
-(My Simple Tutorial Creator widget)
+([My Simple Tutorial Creator](https://github.com/rodolphe37/my-simple-tutorial-creator) widget)
 
 ---
 

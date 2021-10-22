@@ -31,7 +31,7 @@
 ## **:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.**
 
 
->All files are compressed in .zip format
+>For Linux & Windows the files are compressed in .zip format
 >---
 >>***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
 >>
@@ -41,15 +41,9 @@
 >>
 >>---
 >>
->>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1CDDp9XvXQJhv9pWaWbvah1wtjbHFk0Tv/view?usp=sharing)***
+>>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1MbXHJgRyfXUr4ICRl4r7UJAi5gNz_SBR/view?usp=sharing)***
 >>
 >>> Classical installation, like other app for Mac.
->>
->>***Mac - Donwload the.app file (portable version) [Here](https://drive.google.com/drive/folders/1A9OWVT7j7kC7vkhkyqUNcS0P2eeJqD19?usp=sharing)***
->>
->>>For this version, you do not have to install anything.
->>>
->>>Just download "My Simple Cam.app" and copy to your application folder.
 >>
 >>---
 >>

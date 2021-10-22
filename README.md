@@ -86,7 +86,7 @@
 
 ---
 
-# Uninstall the Widget
+## Uninstall the Widget
 
 ### :heavy_exclamation_mark:  How to uninstall the widget on Ubuntu (Linux)?
 

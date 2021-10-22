@@ -28,7 +28,7 @@
 
 ---
 
-### ***:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.***
+### **:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.**
 
 >**All files are compressed in .zip format**
 >---

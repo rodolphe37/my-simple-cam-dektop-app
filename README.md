@@ -41,9 +41,13 @@
 >>
 >>---
 >>
->>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1Uq5U5pRACU2W1XQzrr7gK_PUwRV1a5vv/view?usp=sharing)***
+>>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1CDDp9XvXQJhv9pWaWbvah1wtjbHFk0Tv/view?usp=sharing)***
 >>
->>>For the MacOs version, you do not have to install anything.
+>>> Classic installation like other app for Mac.
+>>
+>>***Mac - Donwload the.app file (portable version) [Here](https://drive.google.com/drive/folders/1A9OWVT7j7kC7vkhkyqUNcS0P2eeJqD19?usp=sharing)***
+>>
+>>>For this version, you do not have to install anything.
 >>>
 >>>Just unzip the file and copy the icon to your application folder.
 >>

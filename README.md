@@ -22,7 +22,7 @@ Widget for [My Simple Tutorial Creator](https://github.com/rodolphe37/my-simple-
 ## What is it?
 >**This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.**
 >
->I designed it as an widget for the "My Simple Tutorial Creator" application but, you can use only this widget and record video with others solution.
+>I designed it as an widget for the ["My Simple Tutorial Creator"](https://github.com/rodolphe37/my-simple-tutorial-creator) application but, you can use only this widget and record video with others solution.
 
 ![alt text](demo/demo.gif "My Simple Cam")
 

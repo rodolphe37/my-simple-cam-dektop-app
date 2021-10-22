@@ -86,6 +86,8 @@
 
 ---
 
+# Uninstall the Widget
+
 ## :heavy_exclamation_mark:  How to uninstall the widget on Ubuntu (Linux)?
 
 > You can uninstall the app with:
@@ -95,13 +97,10 @@ sudo apt-get remove my-simple-cam
 
 ```
 
----
-
 ## :heavy_exclamation_mark:  How to uninstall the widget on Mac?
 
 > Just delete the app icon on application folder
 
----
 
 ## :heavy_exclamation_mark:  How to uninstall the widget on Windows?
 

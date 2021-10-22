@@ -31,7 +31,7 @@
 ### ***:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.***
 
 >**All files are compressed in .zip format**
->
+>---
 >>***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
 >>
 >>>Unzip the file, double click on it!

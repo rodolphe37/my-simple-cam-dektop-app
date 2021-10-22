@@ -41,7 +41,7 @@
 >>
 >>> Classical installation, like other app for Mac.
 >>
->>---
+---
 >>
 >>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/19-iPbELA5cFTwXGlw0p08b-c6KjPk43M/view?usp=sharing)***
 >>

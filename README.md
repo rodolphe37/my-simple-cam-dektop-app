@@ -16,8 +16,6 @@
 
 #  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Cam (My Simple Tutorial Creator widget)
 
-### ***:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.***
-
 ---
 
 ## What is it?
@@ -28,6 +26,8 @@
 ![alt text](demo/demo.gif "My Simple Cam")
 
 ---
+
+### ***:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.***
 
 ***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
 

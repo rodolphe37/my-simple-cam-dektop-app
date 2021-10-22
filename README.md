@@ -34,7 +34,7 @@
 >---
 >>***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/widget-versions/linux/my-simple-cam_0.1.0_amd64.deb?raw=true)***
 >>
->>>Unzip the file, double click on it!
+>>>Double click on the file & clik on install button on the window that appear!
 >>>
 >>>And that's it, it's installed.
 >>

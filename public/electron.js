@@ -2,6 +2,7 @@
 const { app, BrowserWindow, protocol } = require("electron");
 const path = require("path");
 const url = require("url");
+const is_mac = process.platform === "darwin";
 
 // Create the native browser window.
 function createWindow() {
@@ -20,7 +21,10 @@ function createWindow() {
   });
 
   mainWindow.setAlwaysOnTop(true, "screen");
-
+  if (is_mac) {
+    mainWindow.setAlwaysOnTop(true, "screen-saver");
+    mainWindow.setVisibleOnAllWorkspaces(true);
+  }
   mainWindow.setMenu(null);
   // In production, set the initial browser path to the local bundle generated
   // by the Create React App build process.

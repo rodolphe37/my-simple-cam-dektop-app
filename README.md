@@ -63,7 +63,17 @@
 
 ![alt text](demo/start.gif "My Simple Cam")
 
+## Pictures demo - Mac
 
+>You app's
+
+![alt text](demo/mac/after-install.png "My Simple Cam")
+
+>The widget
+
+![alt text](demo/mac/widget.png "My Simple Cam")
+
+---
 
 ## :heavy_exclamation_mark:  How to uninstall the widget on Ubuntu (Linux)?
 

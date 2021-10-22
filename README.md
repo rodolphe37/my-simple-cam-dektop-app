@@ -49,7 +49,7 @@
 >>
 >>---
 >>
->>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/1SbZFpwP_kkvw8yMCjM4Nfy1zoXWQR2Ch/view?usp=sharing)***
+>>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/19-iPbELA5cFTwXGlw0p08b-c6KjPk43M/view?usp=sharing)***
 >>
 >>>Unzip the file, double click on it!
 >>>

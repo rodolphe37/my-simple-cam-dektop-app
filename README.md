@@ -75,7 +75,7 @@
 
 ![alt text](demo/mac/widget.png "My Simple Cam")
 
-## Windowq - Pictures demo
+## Windows - Pictures demo
 
 >Installation...
 

@@ -29,8 +29,6 @@
 
 >## **:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.**
 >
->***For Windows the file is compressed in .zip format***
->---
 >>***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/widget-versions/linux/my-simple-cam_0.1.0_amd64.deb?raw=true)***
 >>
 >>>Double click on the file & click on install button on the window that appear!
@@ -66,11 +64,11 @@
 
 ## Mac - Pictures demo
 
->You app's
+>**You app's**
 
 ![alt text](demo/mac/after-install.png "My Simple Cam")
 
->The widget
+>**The widget**
 
 ![alt text](demo/mac/widget.png "My Simple Cam")
 
@@ -88,27 +86,26 @@
 
 # Uninstall the Widget
 
-## :heavy_exclamation_mark:  How to uninstall the widget on Ubuntu (Linux)?
+### :heavy_exclamation_mark:  How to uninstall the widget on Ubuntu (Linux)?
 
 > You can uninstall the app with:
 
 ```
 sudo apt-get remove my-simple-cam
-
 ```
 
-## :heavy_exclamation_mark:  How to uninstall the widget on Mac?
+### :heavy_exclamation_mark:  How to uninstall the widget on Mac?
 
 > Just delete the app icon on application folder
 
 
-## :heavy_exclamation_mark:  How to uninstall the widget on Windows?
+### :heavy_exclamation_mark:  How to uninstall the widget on Windows?
 
 > The classic way, like all other Windows applications.
 
 ---
 
-# You want build/compile your own version
+## You want build/compile your own version
 
 >Fork or clone directly this repository.
 

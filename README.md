@@ -53,7 +53,7 @@
 >And that's it, it's installed.
 ---
 
-## :heavy_exclamation_mark: How to install the widget on Ubuntu (.deb - all debian versions)
+## :heavy_exclamation_mark: Demo on Ubuntu (.deb - all debian versions)
 
 ### Installation:
 

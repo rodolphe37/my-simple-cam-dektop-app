@@ -97,6 +97,18 @@ sudo apt-get remove my-simple-cam
 
 ---
 
+## :heavy_exclamation_mark:  How to uninstall the widget on Mac?
+
+> Just delete the app icon on application folder
+
+---
+
+## :heavy_exclamation_mark:  How to uninstall the widget on Windows?
+
+> The classic way, like all other Windows applications.
+
+---
+
 ## You want build/compile your own version
 
 >Fork or clone directly this repository.
@@ -137,17 +149,6 @@ yarn electron:package:win
 
 ---
 
-## :heavy_exclamation_mark:  How to uninstall the widget on Mac?
-
-> Just delete the app icon on application folder
-
----
-
-## :heavy_exclamation_mark:  How to uninstall the widget on Windows?
-
-> The classic way, like all other Windows applications.
-
----
 
 
 ## :bust_in_silhouette: Author

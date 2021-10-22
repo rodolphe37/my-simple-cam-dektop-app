@@ -14,7 +14,7 @@
 ## Widget Created with Electron.js & React.js
 
 
-#  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Cam
+#  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="80" width="35"/>My Simple Cam
 
 ---
 

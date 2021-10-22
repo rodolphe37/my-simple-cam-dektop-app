@@ -63,7 +63,9 @@
 
 ![alt text](demo/start.gif "My Simple Cam")
 
-## Pictures demo - Mac
+---
+
+## Mac - Pictures demo
 
 >You app's
 
@@ -72,6 +74,16 @@
 >The widget
 
 ![alt text](demo/mac/widget.png "My Simple Cam")
+
+## Windowq - Pictures demo
+
+>Installation...
+
+![alt text](demo/windows/install.png "My Simple Cam")
+
+>The widget
+
+![alt text](demo/windows/widget.png "My Simple Cam")
 
 ---
 

@@ -109,7 +109,7 @@ sudo apt-get remove my-simple-cam
 
 ---
 
-## You want build/compile your own version
+# You want build/compile your own version
 
 >Fork or clone directly this repository.
 

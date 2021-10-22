@@ -41,7 +41,7 @@
 >>
 >>> Classical installation, like other app for Mac.
 >>
----
+>>---
 >>
 >>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/19-iPbELA5cFTwXGlw0p08b-c6KjPk43M/view?usp=sharing)***
 >>
@@ -72,13 +72,15 @@
 
 ![alt text](demo/mac/widget.png "My Simple Cam")
 
+---
+
 ## Windows - Pictures demo
 
->Installation...
+>**Installation...**
 
 ![alt text](demo/windows/install.png "My Simple Cam")
 
->The widget
+>**The widget**
 
 ![alt text](demo/windows/widget.png "My Simple Cam")
 

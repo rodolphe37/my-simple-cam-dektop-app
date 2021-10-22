@@ -97,6 +97,46 @@ sudo apt-get remove my-simple-cam
 
 ---
 
+## You want build/compile your own version
+
+>Fork or clone directly this repository.
+
+### Install the dependencies
+
+```
+yarn
+```
+
+### Start the App
+
+```
+yarn electron:start
+
+```
+
+### For Linux (.deb package)
+
+```
+yarn electron:package:linux
+
+```
+
+### For MacOS compilation (.dmg package)
+
+```
+yarn electron:package:mac
+
+```
+
+### For Windows compilation (.exe package)
+
+```
+yarn electron:package:win
+
+```
+
+---
+
 ## :heavy_exclamation_mark:  How to uninstall the widget on Mac?
 
 > Just delete the app icon on application folder

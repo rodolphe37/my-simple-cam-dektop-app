@@ -16,13 +16,22 @@
 
 #  <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Cam (My Simple Tutorial Creator widget)
 
-### ***:heavy_exclamation_mark: For the moment, the widget is only available for Linux.***
+### ***:heavy_exclamation_mark: For the moment, the widget is only available for Linux & MacOs.***
 
 ---
 
-***Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
+***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
 
 ---
+
+***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1Uq5U5pRACU2W1XQzrr7gK_PUwRV1a5vv/view?usp=sharing)***
+
+>For the MacOs version, you do not have to install anything.
+Just unzip the file and copy the icon to your application folder.
+
+---
+
+## What is it?
 >**This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.**
 >
 >I designed it as an widget for the "My Simple Tutorial Creator" application but, you can use only this widget and record video with others solution.

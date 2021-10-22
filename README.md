@@ -20,6 +20,15 @@
 
 ---
 
+## What is it?
+>**This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.**
+>
+>I designed it as an widget for the "My Simple Tutorial Creator" application but, you can use only this widget and record video with others solution.
+
+![alt text](demo/demo.gif "My Simple Cam")
+
+---
+
 ***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app-dektop-app/blob/main/widget-versions/linux/my-simple-cam-dektop-app_0.1.0_amd64.deb?raw=true)***
 
 >Unzip the file, double click on it!
@@ -41,15 +50,6 @@
 >Unzip the file, double click on it!
 >
 >And that's it, it's installed.
----
-
-## What is it?
->**This is a cam widget which has the particularity of always staying in front of other windows, be it your browser or any other window.**
->
->I designed it as an widget for the "My Simple Tutorial Creator" application but, you can use only this widget and record video with others solution.
-
-![alt text](demo/demo.gif "My Simple Cam")
-
 ---
 
 ## :heavy_exclamation_mark: How to install the widget on Ubuntu (.deb - all debian versions)

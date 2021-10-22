@@ -22,7 +22,7 @@ function createWindow() {
 
   mainWindow.setAlwaysOnTop(true, "screen");
   if (is_mac) {
-    mainWindow.setAlwaysOnTop(true, "screen-saver");
+    mainWindow.setAlwaysOnTop(true, "pop-up-menu");
     mainWindow.setVisibleOnAllWorkspaces(true);
   }
   mainWindow.setMenu(null);

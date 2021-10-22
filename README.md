@@ -123,7 +123,6 @@ yarn
 
 ```
 yarn electron:start
-
 ```
 
 ### Build/compilation
@@ -132,21 +131,18 @@ yarn electron:start
 
 ```
 yarn electron:package:linux
-
 ```
 
 #### For MacOS compilation (.dmg package)
 
 ```
 yarn electron:package:mac
-
 ```
 
 #### For Windows compilation (.exe package)
 
 ```
 yarn electron:package:win
-
 ```
 
 ---

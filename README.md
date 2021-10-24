@@ -176,6 +176,8 @@ Thank you! :heart:
 
 MIT
 
+---
+
 ## My other projects:
 
 >### My Simple Task Manager
